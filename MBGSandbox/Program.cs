@@ -11,8 +11,7 @@ namespace MBGSandbox
     {
         /// <summary>
         ///     <para>
-        ///         Dictionary which stores the name of the roles as the key and the unicode
-        ///         values for the reaction emoji that represents that role as the value.
+        ///         Reference list of role definitons
         ///     </para>
         /// </summary>
         private List<RoleDefinition> _roleEmoji;
