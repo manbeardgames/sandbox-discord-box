@@ -81,7 +81,7 @@ namespace MBGSandbox
 
             //  This is the private token used for the bot.  This is a 
             //  PRIVATE token, shoudl not be shared publically. 
-            string token = "NTMzMzI0MzI0MDYxNDQ2MTU0.Dxpdug.RTETy81yiB3gL28sX3s9difOrU8";
+            string token = "";
 
             //  Perform the login
             await _client.LoginAsync(TokenType.Bot, token);
